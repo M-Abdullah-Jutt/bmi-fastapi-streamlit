@@ -9,5 +9,6 @@ This is a simple BMI calculator using FastAPI for the backend and Streamlit for 
 uvicorn main:app --reload
 
 ### 2. Start the frontend:
+
 streamlit run app.py
 
